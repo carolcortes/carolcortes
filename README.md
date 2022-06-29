@@ -13,7 +13,7 @@
  
 <div align="center">
   
-  <img height="165em" alt="Carols Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolcortes&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="165em" alt="Carols Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolcortes&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117"/>
 
   <img height="165em" alt="Carols Github Status" src="https://github-readme-stats.vercel.app/api?username=carolcortes&theme=dracula"/>
 
