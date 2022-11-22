@@ -2,14 +2,37 @@
 <p align="center">I'm a Fullstack Developer and here you can reach some of my projects :woman_technologist:<p>
 
 ---
-  
-<div align="center">
-
-| Tools  | Languages | Frameworks / Libs  | Technologies |  
-|---|---|---|---|
-|<img align=center src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" height="30"/>|&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>|&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30" height="30"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>|
-
-</div>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Frameworks / Libs</th>
+      <th>Tools</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30" height="30"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>
+      </td>
+      <td align="center">
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" height="30"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30" height="30"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="60" height="60"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" width="60" height="60"/>
+      </td>
+      <td width="205" align="center">
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
+      </td>
+    </tr>
+   </tbody>
+</table>  
  
 <div align="center">
   
