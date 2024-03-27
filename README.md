@@ -27,10 +27,16 @@
 </div>
 
  ---
-  [![](https://visitcount.itsvg.in/api?id=carolcortes&icon=3&color=11)](https://visitcount.itsvg.in)
-  ## Connect with me:
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:caroline.ocortes@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carolinecortes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carolinecortess)
+[![](https://visitcount.itsvg.in/api?id=carolcortes&icon=3&color=11)](https://visitcount.itsvg.in)
 
-  ## Support my work:
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/carolcortes) [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/carolinecortess)
-</div>
+## Connect with me:
+
+<a href="mailto:caroline.ocortes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://instagram.com/carolinecortes" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://linkedin.com/in/carolinecortess" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+## Support my work:
+
+<a href="https://buymeacoffee.com/carolcortes" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
+<a href="https://paypal.me/carolinecortess" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white" alt="PayPal"></a>
+
