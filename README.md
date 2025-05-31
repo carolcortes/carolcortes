@@ -27,9 +27,14 @@
   <img height="165em" alt="Carols Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolcortes&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117"/>
   <img height="165em" alt="Carols Github Status" src="https://github-readme-stats.vercel.app/api?username=carolcortes&theme=dracula"/>
 </div>
+<div align="center">
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/cade-oli?1337Badge=off&UM6P=off" alt="cade-oli's 42 stats" /></a>
+</div>
 
  ---
 [![](https://visitcount.itsvg.in/api?id=carolcortes&icon=3&color=11)](https://visitcount.itsvg.in)
+
+---
 
 ## Connect with me:
 
